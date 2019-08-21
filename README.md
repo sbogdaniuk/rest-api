@@ -10,7 +10,7 @@ This repository is the example application for the [_Getting Started_ guide](htt
 
 Play with this example using [Glitch](https://glitch.com/) by clicking the following button:
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/sbogdaniuk/rest-api)
+[![See it on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/sbogd-rest-api)
 
 ## Installation
 
