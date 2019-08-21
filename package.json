@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "0.0.0",
+  "description": "JSON Service",
+  "main": "src/db.js",
+  "scripts": {
+    "start": "json-server src/db.js"
+  },
+  "author": "Ciklum Solutions JS Team",
+  "license": "MIT",
+  "browserslist": [
+    "last 3 versions"
+  ],
+  "engines": {
+    "node": "^10.3.1"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.14.0",
+    "lodash": "^4.17.11"
+  }
+}

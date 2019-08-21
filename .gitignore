@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+node_modules/
+npm-debug.log
+dist
+coverage
+r&d/assets
+!dist/.gitkeep
+.vagrant
+tmp
+**/locales/_build
